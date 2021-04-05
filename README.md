@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v1.1b3 by SiSTR0
+GoldHEN by SiSTR0
 
 Kernel Dumper
 
