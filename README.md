@@ -1,4 +1,4 @@
-**VERSION 1.1**
+**VERSION 1.2**
 
 Folgende Payloads sind integriert:
 
@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN by SiSTR0
+GoldHEN 1.1 by SiSTR0
 
 Kernel Dumper
 
