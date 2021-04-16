@@ -1,6 +1,6 @@
 **VERSION 1.3**
 
-![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/114219831-78abaf80-996b-11eb-8353-c725ba7eacdb.jpg)
+![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/115017346-b3a36b00-9eb6-11eb-9ee2-04b7fb5dc5d8.jpg)
 ![Untermenü_755](https://user-images.githubusercontent.com/39792666/114219843-7c3f3680-996b-11eb-9cc9-3f9b73b3ed0a.jpg)
 ![Dumper_755](https://user-images.githubusercontent.com/39792666/114219850-7ea19080-996b-11eb-86e4-181a82b594fe.jpg)
 ![Blocker_755](https://user-images.githubusercontent.com/39792666/114219854-806b5400-996b-11eb-923e-22fbcd353b28.jpg)
