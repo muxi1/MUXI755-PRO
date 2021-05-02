@@ -1,11 +1,11 @@
-**VERSION 1.9**
+**VERSION 1.10**
 
 
-![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/116560094-59b49380-a901-11eb-9f59-04d02724826d.jpg)
+![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/116805539-7d592300-ab27-11eb-8455-62217775c1e5.jpg)
 
 ![HEN_Auswahl_755](https://user-images.githubusercontent.com/39792666/116288405-c872df00-a791-11eb-9139-3e96ee6f1abb.jpg)
 
-![Untermenü_755](https://user-images.githubusercontent.com/39792666/116560126-61743800-a901-11eb-8c0e-6d429e427808.jpg)
+![Untermenü_755](https://user-images.githubusercontent.com/39792666/116805557-97930100-ab27-11eb-9741-0be5bcfa0653.jpg)
 
 ![Dumper_755](https://user-images.githubusercontent.com/39792666/114219850-7ea19080-996b-11eb-86e4-181a82b594fe.jpg)
 
@@ -57,4 +57,6 @@ PS4 Debug by jgolden
 
 Web Activator
 
-ToDEX
+Aktiviere DEX
+
+Deaktiviere DEX
