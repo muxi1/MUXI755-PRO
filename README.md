@@ -1,11 +1,11 @@
-**VERSION 1.11**
+**VERSION 1.12**
 
 
-![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/116854648-4f8fdf00-abf8-11eb-93c1-e82754b71eed.jpg)
+![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/118842704-ba643a00-b8c9-11eb-80d4-a8fbfbfecdec.jpg)
 
 ![HEN_Auswahl_755](https://user-images.githubusercontent.com/39792666/116288405-c872df00-a791-11eb-9139-3e96ee6f1abb.jpg)
 
-![Untermenü_755](https://user-images.githubusercontent.com/39792666/116854674-5b7ba100-abf8-11eb-87fd-9660ce5b166d.jpg)
+![Untermenü_755](https://user-images.githubusercontent.com/39792666/118842758-c3eda200-b8c9-11eb-9238-c3db885271d2.jpg)
 
 ![Dumper_755](https://user-images.githubusercontent.com/39792666/114219850-7ea19080-996b-11eb-86e4-181a82b594fe.jpg)
 
@@ -60,3 +60,5 @@ Web Activator
 Aktiviere DEX
 
 Deaktiviere DEX
+
+USB Cache Installer
