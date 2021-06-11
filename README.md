@@ -1,7 +1,7 @@
 **VERSION 1.15**
 
 
-![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/120022932-6229e800-bfed-11eb-9403-75bb09f3f9d4.jpg)
+![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/121697374-48000780-cacd-11eb-98e2-3e1a2383195c.jpg)
 
 ![HEN_Auswahl_755](https://user-images.githubusercontent.com/39792666/116288405-c872df00-a791-11eb-9139-3e96ee6f1abb.jpg)
 
