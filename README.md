@@ -1,7 +1,7 @@
 **VERSION 1.16**
 
 
-![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/121697374-48000780-cacd-11eb-98e2-3e1a2383195c.jpg)
+![Hauptmenü_755](https://user-images.githubusercontent.com/39792666/126639465-6b275a99-5a5a-4759-a5a7-9c4741580da0.jpg)
 
 ![HEN_Auswahl_755](https://user-images.githubusercontent.com/39792666/116288405-c872df00-a791-11eb-9139-3e96ee6f1abb.jpg)
 
